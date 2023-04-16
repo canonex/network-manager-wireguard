@@ -7,6 +7,10 @@ It is based on the [OpenVPN Plugin](https://git.gnome.org/browse/network-manager
 
 ## Guide
 
+### Requirements
+* autoconf
+* intltool
+* libtool
 
 ### Compilation
 For compilation, the project uses autoconf and related things.
